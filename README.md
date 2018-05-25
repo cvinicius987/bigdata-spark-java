@@ -2,7 +2,6 @@
 
 Estudos de caso envolvendo projetos de BigData:
 
-
 ### Projetos:
 
 - bda;
