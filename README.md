@@ -1,8 +1,8 @@
-# projetos-bigdata
+ # projetos-bigdata
 
 Estudos de caso envolvendo projetos de BigData:
 
-### Projetos:
+ ### Projetos:
 
-- bda;
-- spark-nasa-request-server;
+ - bda;
+ - spark-nasa-request-server;
